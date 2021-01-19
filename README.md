@@ -2,7 +2,7 @@
 
 # Requirements
 - Java 11
-- maven 3.6.4
+- maven 3.6.3
 
 # Steps to run it
 - mvn clean package
